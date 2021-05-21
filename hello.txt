@@ -1,3 +1,9 @@
 hello git!
+<<<<<<< HEAD
 hello git! master test
 hello git!
+=======
+hello git!
+hello git! Hot-fix test
+
+>>>>>>> hot-fix
